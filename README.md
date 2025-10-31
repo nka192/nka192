@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my GitHub profile 👋
 
 <!--
 **nka192/nka192** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔗 ![portfolio](https://github.com/user-attachments/assets/e471694c-c93e-4244-a9ad-908864f59435)
+
