@@ -18,5 +18,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/d38feab4-720c-4f5e-87ce-ac3b8ceae6ee" alt="portfolio website home gif" width="100%"/>
 </p>
 
-🌐 My personal portfolio website (work in progress!): [Portfolio](https://portfolio-blush-five-20.vercel.app/)
+<!--
+🌐 My personal portfolio website (work in progress!): [Portfolio](https://portfolio-blush-five-20.vercel.app/) -->
 
